@@ -47,18 +47,18 @@ Ignite
 Power Process Starts
 Burn Fuel causes Thermal Heat Energy
 Move Up Piston Complete – 1 Stroke Complete
-	Move Down Piston Start – 2 Stroke Start
+Move Down Piston Start – 2 Stroke Start
 Crank Case Compression of Fuel 
 Proppet Valve Closes	
 Transfer/ Exhaust Process Start
-	Piston at Bottom
+Piston at Bottom
 Exhaust Port Exposed
 Compressed Fuel/Air from Crank Case enters Main Cylinder
 Exhaust Gases Out Exhaust Port some Fresh Fuel/Air also Escapes
 Move Down Piston Complete – 2 Stroke Complete
 Intake Start
 Move Up Piston Start – 1 Stroke Start
-	Proppet Valve Opens
-	Fresh fuel/air mixture enters Crank Case
+Proppet Valve Opens
+Fresh fuel/air mixture enters Crank Case
 Cylinder Compression of Fuel
 REPEAT
